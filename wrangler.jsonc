@@ -30,4 +30,10 @@
 			"binding": "LOADER",
 		},
 	],
+	"kv_namespaces": [
+	    {
+	      "binding": "SESSION",
+	      "id": "7b798bba47fd4eaaace1285cb9da8fa5"
+	    }
+	  ]
 }
